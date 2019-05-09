@@ -1,0 +1,9 @@
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\bin\Release\netstandard2.0\Feng.Files.Model.deps.json
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\bin\Release\netstandard2.0\Feng.Files.Model.dll
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\bin\Release\netstandard2.0\Feng.Files.Model.pdb
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\obj\Release\netstandard2.0\Feng.Files.Model.csprojAssemblyReference.cache
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\obj\Release\netstandard2.0\Feng.Files.Model.csproj.CoreCompileInputs.cache
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\obj\Release\netstandard2.0\Feng.Files.Model.AssemblyInfoInputs.cache
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\obj\Release\netstandard2.0\Feng.Files.Model.AssemblyInfo.cs
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\obj\Release\netstandard2.0\Feng.Files.Model.dll
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Model\obj\Release\netstandard2.0\Feng.Files.Model.pdb

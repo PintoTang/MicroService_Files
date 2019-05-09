@@ -1,0 +1,16 @@
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.Service.deps.json
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.Service.dll
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.Service.pdb
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.Entity.dll
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.IService.dll
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.Model.dll
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.Entity.pdb
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.IService.pdb
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\bin\Release\netstandard2.0\Feng.Files.Model.pdb
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\obj\Release\netstandard2.0\Feng.Files.Service.csprojAssemblyReference.cache
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\obj\Release\netstandard2.0\Feng.Files.Service.csproj.CoreCompileInputs.cache
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\obj\Release\netstandard2.0\Feng.Files.Service.AssemblyInfoInputs.cache
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\obj\Release\netstandard2.0\Feng.Files.Service.AssemblyInfo.cs
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\obj\Release\netstandard2.0\Feng.Files.Service.csproj.CopyComplete
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\obj\Release\netstandard2.0\Feng.Files.Service.dll
+D:\zhaobo-it\技术\Feng\Feng.Files\trunk\Feng.Files.Service\obj\Release\netstandard2.0\Feng.Files.Service.pdb
